@@ -6,4 +6,4 @@ def gcd( a, b):
         else:
             b %= a
     return a + b;
-print(gcd(3,7))
+print(gcd(30,70))
